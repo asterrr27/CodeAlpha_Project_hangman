@@ -18,3 +18,10 @@ To run the game, you need Python installed on your machine. Follow the steps bel
    ```bash
    git clone https://github.com/yourusername/hangman-game.git
 
+
+cd hangman-game
+
+python hangman.py
+
+
+Feel free to customize the repository URL and any other details as needed.
